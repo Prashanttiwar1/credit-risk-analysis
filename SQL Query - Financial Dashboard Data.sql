@@ -3,7 +3,7 @@
 -- 0. Create a database 
 CREATE DATABASE ccdb;
 
--- 1. Create cc_detail table
+-- 1. Create cc_detail table (credit card details)
 
 CREATE TABLE cc_detail (
     Client_Num INT,
